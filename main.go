@@ -34,6 +34,6 @@ func text(word string)  {
 }
 
 func fruitArrr()  {
-	fruit := []int{1,2}
+	fruit := []int{1,2,4,5,6,7,8}
 	fmt.Println(len(fruit))
 }
